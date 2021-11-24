@@ -22,4 +22,4 @@ Last updated 2021-11-24
 
 **Contact Us**
 
-If you have questions about this application, please [fill an issue on GitHub](https://github.com/jackw7698/TubeSaver/issues/new).
+If you have questions about this application or feature requests, please [fill an issue on GitHub](https://github.com/jackw7698/TubeSaver/issues/new).
