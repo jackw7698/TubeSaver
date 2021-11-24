@@ -8,9 +8,9 @@ Tube Saver doesn’t:
 
 Tube Saver collects the following data for improving the quality and user experience of the app itself:
 
--   Application crashes' details;
--   Sucess or failure state of retrieving vidoe downloading address;
--   Downloaded video resolution.
+-   application crashes' details;
+-   sucess or failure state of retrieving vidoe downloading address;
+-   downloaded video resolution.
 
 All data will be sent to Visual Studio App Center which is belong to Microsoft. Developer only uses the data to improve the application itself and will not share it with third-parites forever.
 
